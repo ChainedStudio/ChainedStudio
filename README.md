@@ -1,6 +1,6 @@
 # Vastly
 
-Software Engineer & CS Student based in South Africa.
+Software Engineer & Software Developement Student based in South Africa.
 I build clean, functional software and take on freelance contracts across web, backend, and systems work.
 
 ---
