@@ -1,23 +1,25 @@
-# Vastly
+# Hey, I'm Vastly👋
 
-Software Engineer & Software Developement Student based in South Africa.
-I build clean, functional software and take on freelance contracts across web, backend, and systems work.
+Software Engineering student based in South Africa.
+I write clean, functional code and take on freelance contracts across web, backend, and systems work.
 
 ---
 
-## Tech Stack
+## What I'm Currently Working On📌
 
-**Languages**
+- Finishing my Software Development degree
+- Building a teleportation plugin for Minecraft 1.21.1 on Paper API (Java)
+
+---
+
+## Tools I Use🔧
+
 Java · Python · JavaScript · HTML · CSS
 
-**What I Work With**
-- Backend logic and scripting in Java and Python
-- Frontend interfaces with JavaScript, HTML, and CSS
-- Linux systems, self-hosting, and server management
-- Comfortable working across the full stack
-
 ---
 
-## Get In Touch
+## Let's Work Together🧑‍💼
 
-Open to contracts, collaborations, and interesting problems.
+Open to freelance contracts, collaborations, and interesting problems.
+
+Reach me at **vast.coa@gmail.com** or directly message me
