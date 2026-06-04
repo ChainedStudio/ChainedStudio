@@ -18,23 +18,6 @@ Java · Python · JavaScript · HTML · CSS
 
 ---
 
-## What I Offer
-
-- Freelance development — web, backend, tooling, and automation
-- Clean, maintainable code with attention to detail
-- Fast turnaround and clear communication
-- Adaptable to project requirements and existing codebases
-
----
-
-## Currently
-
-- Studying Computer Science
-- Open to freelance contracts and remote work
-- Building and expanding personal projects
-
----
-
 ## Get In Touch
 
 Open to contracts, collaborations, and interesting problems.
