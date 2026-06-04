@@ -1,16 +1,40 @@
-## Hi there 👋
+# Vastly
 
-<!--
-**ChainedStudio/ChainedStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer & CS Student based in South Africa.
+I build clean, functional software and take on freelance contracts across web, backend, and systems work.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages**
+Java · Python · JavaScript · HTML · CSS
+
+**What I Work With**
+- Backend logic and scripting in Java and Python
+- Frontend interfaces with JavaScript, HTML, and CSS
+- Linux systems, self-hosting, and server management
+- Comfortable working across the full stack
+
+---
+
+## What I Offer
+
+- Freelance development — web, backend, tooling, and automation
+- Clean, maintainable code with attention to detail
+- Fast turnaround and clear communication
+- Adaptable to project requirements and existing codebases
+
+---
+
+## Currently
+
+- Studying Computer Science
+- Open to freelance contracts and remote work
+- Building and expanding personal projects
+
+---
+
+## Get In Touch
+
+Open to contracts, collaborations, and interesting problems.
