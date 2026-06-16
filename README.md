@@ -8,7 +8,7 @@ I write clean, functional code and take on freelance contracts across web, backe
 ## What I'm Currently Working On📌
 
 - Finishing my Software Development degree
-- Building a teleportation plugin for Minecraft 1.21.1 on Paper API (Java)
+- Building a plugin library for Minecraft servers that simplify management
 
 ---
 
